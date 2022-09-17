@@ -1,7 +1,7 @@
 #include <vector>
 #include <iostream>
 
-std::vector<int> nums;
+int array[4] nums;
 
 int main()
 {
